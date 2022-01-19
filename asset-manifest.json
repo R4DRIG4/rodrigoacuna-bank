@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/rodrigoacuna-bank/static/js/main.d87b421a.js",
+    "static/media/fondo.mp4": "/rodrigoacuna-bank/static/media/fondo.d4a3704e3b06a3d7ba82.mp4",
+    "index.html": "/rodrigoacuna-bank/index.html",
+    "main.d87b421a.js.map": "/rodrigoacuna-bank/static/js/main.d87b421a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d87b421a.js"
+  ]
+}
